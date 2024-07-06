@@ -438,3 +438,4 @@ ls --color=auto
 ./insert_data.sh
 ./insert_data.sh
 ls --color=auto
+ls --color=auto
