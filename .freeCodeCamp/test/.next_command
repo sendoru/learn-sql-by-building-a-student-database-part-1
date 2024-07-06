@@ -326,3 +326,4 @@ touch insert_data.sh
 chmod 777 insert_data.sh
 ./insert_data.sh
 ./insert_data.sh
+declare -p IFS
