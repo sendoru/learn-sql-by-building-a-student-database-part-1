@@ -437,3 +437,4 @@ ls --color=auto
 춘잣
 ./insert_data.sh
 ./insert_data.sh
+ls --color=auto
