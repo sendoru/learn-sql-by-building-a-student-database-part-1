@@ -436,3 +436,4 @@ psql --username=freecodecamp --dbname=postgres
 ls --color=auto
 춘잣
 ./insert_data.sh
+./insert_data.sh
